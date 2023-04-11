@@ -12,5 +12,7 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
 ## Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
-|| Üniversite Yönetim Sistemi Sınıf Diyagramı ||
+    || Üniversite Yönetim Sistemi Sınıf Diyagramı ||
+
+    ![universiteYonetim](universiteYonetim.png)
 
